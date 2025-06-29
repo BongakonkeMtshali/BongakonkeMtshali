@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @BongakonkeMtshali
 - 👀 I’m interested in Software engeenering
-- 🌱 I’m currently learning Software engeenering and Data at PLP academy
-- 💞️ I’m looking to collaborate on ....
+- 🌱 I’m currently learning Software engeenering and Data at PLP academy  /Fnb Academy App
+- 💞️ I’m looking to collaborate on  project to develop,
 - 📫 How to reach me whatsapp =+27745534571
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Kind and  Friendly
 
 <!---
